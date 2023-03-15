@@ -2,7 +2,7 @@
 
 #### By _**Marcus Kyung**_
 
-#### _{Brief description of application}_
+#### _Basic sample webiste developed to practice use of floats in CSS_
 
 ## Technologies Used
 
